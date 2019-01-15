@@ -26,3 +26,5 @@ function increaseRankBy(n) {
   let rank = document.querySelectorAll('.ranked-list');
 
 }
+
+
